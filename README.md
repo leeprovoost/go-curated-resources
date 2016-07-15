@@ -1,6 +1,6 @@
 # go-curated-resources
 
-A list of useful Go articles, blog posts, projects, etc. I've added a date to each link to show when I've added it to this page. 
+A list of useful Go articles, blog posts, projects, etc. that I use during my work. I've added a date to each link to show when I've added it to this page. 
 
 ## Reading
 
@@ -15,9 +15,15 @@ A list of useful Go articles, blog posts, projects, etc. I've added a date to ea
 
 ## Packages
 
-* [urfave/negroni](https://github.com/urfave/negroni): HTTP Middleware (15/07/2016)
+* [gorilla/mux](http://www.gorillatoolkit.org/pkg/mux): HTTP routing (15/07/2016)
+* [urfave/negroni](https://github.com/urfave/negroni): HTTP Middleware handler (15/07/2016)
+* [strechr/testify](https://github.com/stretchr/testify): writing easier test assertions (15/07/2016)
+* [unrolled/render](https://github.com/unrolled/render): HTTP response rendering (15/07/2016)
+* [palantir/stacktrace](https://github.com/palantir/stacktrace): provide more context to error messages (15/07/2016)
+* [unrolled/secure](https://github.com/unrolled/secure): improve API security (15/07/2016)
 
 ## Tools
 
+* [pilu/fresh](https://github.com/pilu/fresh): watch file changes and reload Go server, though have changed to using Gulp for my more complex projects (15/07/2016)
 * [tools/godep](https://github.com/tools/godep): vendor management (15/07/2016)
 
