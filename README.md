@@ -1,6 +1,6 @@
 # go-curated-resources
 
-A list of useful Go articles, blog posts, projects, etc. that I use during my work. I've added a date to each link to show when I've added it to this page. This is not intended to be a competitor to the excellent [awesome-go](https://github.com/avelino/awesome-go) project.
+A list of useful Go (golang) articles, blog posts, projects, etc. that I use during my work. I've added a date to each link to show when I've added it to this page. This is not intended to be a competitor to the excellent [awesome-go](https://github.com/avelino/awesome-go) project.
 
 ## Reading
 
