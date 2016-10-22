@@ -22,6 +22,7 @@ A list of useful Go (golang) articles, blog posts, projects, etc. that I use dur
 * [unrolled/render](https://github.com/unrolled/render): HTTP response rendering (15/07/2016)
 * [palantir/stacktrace](https://github.com/palantir/stacktrace): provide more context to error messages (15/07/2016)
 * [unrolled/secure](https://github.com/unrolled/secure): improve API security (15/07/2016)
+* [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock): mock your database for testing (22/10/2016)
 
 ## Tools
 
