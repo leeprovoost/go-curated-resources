@@ -28,5 +28,5 @@ A list of useful Go (golang) articles, blog posts, projects, etc. that I use dur
 ## Tools
 
 * [pilu/fresh](https://github.com/pilu/fresh): watch file changes and reload Go server, though have changed to using Gulp for my more complex projects (15/07/2016)
-* [tools/godep](https://github.com/tools/godep): vendor management (15/07/2016)
+* [kardianos/govendor](https://github.com/kardianos/govendor): vendor management, replacing godep (06/11/2016)
 
