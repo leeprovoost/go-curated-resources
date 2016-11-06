@@ -8,6 +8,7 @@ A list of useful Go (golang) articles, blog posts, projects, etc. that I use dur
 
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) (15/07/2016)
 * [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/) (15/07/2016)
+* [How to avoid Go gotchas](https://divan.github.io/posts/avoid_gotchas/) --> especially the bit about Go pointers being passed by value, not by reference (06/11/2016)
 
 ### Presentations
 
