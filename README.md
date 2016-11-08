@@ -15,6 +15,10 @@ A list of useful Go (golang) articles, blog posts, projects, etc. that I use dur
 * [Practical advice for Go library authors](http://go-talks.appspot.com/github.com/cep21/go-talks/practical-advice-for-go-library-authors.slide#22) (15/07/2016)
 * [Understanding nil](https://speakerdeck.com/campoy/understanding-nil) (22/07/2016)
 
+### Tutorials
+
+* [Go Database Overview](http://go-database-sql.org/overview.html) (08/11/2016)
+
 ## Packages
 
 * [gorilla/mux](http://www.gorillatoolkit.org/pkg/mux): HTTP routing (15/07/2016)
