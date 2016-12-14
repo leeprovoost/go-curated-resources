@@ -24,6 +24,7 @@ A list of useful Go (golang) articles, blog posts, projects, etc. that I use dur
 
 ## Packages
 
+* [hlandau/passlib](https://github.com/hlandau/passlib): Password hashing package that supports bcrypt, scrypt and salting (14/12/2016)
 * [dcu/go-authy](https://github.com/dcu/go-authy): easy to implement 2FA with SMS verification, requires a paid Authy subscription (12/12/2016)
 * [afex/hystrix-go](https://github.com/afex/hystrix-go/): add resilience to your API clients (12/12/2016)
 * [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock): mock your database for testing (22/10/2016)
